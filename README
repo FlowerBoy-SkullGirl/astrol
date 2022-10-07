@@ -1,0 +1,9 @@
+Astrol is a program that generates a random password based on a number of factors unique to your system!
+
+These factors include your hostname, system uptime at the time the program is run, and the date your computer was turned on.
+
+Command-line syntax:
+
+./astrol (optional cipher)
+
+The optional cipher will scramble your password that is generated from your computer's "star sign." The default value for the cipher is your hostname.
